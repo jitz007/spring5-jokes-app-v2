@@ -1,0 +1,4 @@
+com\example\spring5jokesappv2\services\JokeServiceImpl.class
+com\example\spring5jokesappv2\controller\JokeController.class
+com\example\spring5jokesappv2\services\JokeService.class
+com\example\spring5jokesappv2\Spring5JokesAppV2Application.class
